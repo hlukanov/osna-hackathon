@@ -26,15 +26,39 @@
       * [Visual Insights](#visual-insights)
       * [Visual Recognition](#visual-recognition)
     * [NodeJS](#nodejs)
-    * [Other](#other)
+      * [AlchemyLanguage](#alchemylanguage2)
+      * [AlchemyVision](#alchemyvision2)
+      * [AlchemyData News](#alchemydata-news2)
+      * [Authorization](#authorization2)
+      * [Concept Insights](#concept-insights2)
+      * [Conversation](#conversation2)
+      * [Dialog](#dialog2)
+      * [Document Conversion](#document-conversion2)
+      * [Language Translator](#language-translator2)
+      * [Natural Language Classifier](#natural-language-classifier2)
+      * [Personality Insights](#personality-insights2)
+      * [Relationship Extraction](#relationship-extraction2)
+      * [Retrieve and Rank](#retrieve-and-rank2)
+      * [Speech to Text](#speech-to-text2)
+      * [Text to Speech](#text-to-speech2)
+      * [Tone Analyzer](#tone-analyzer2)
+      * [Tradeoff Analytics](#tradeoff-analytics2)
+      * [Visual Insights](#visual-insights2)
+      * [Visual Recognition](#visual-recognition2)
 
 <a name="bluemixlogin" />
 ## Register a Bluemix Account
-Go to http://bluemix.net
+Go to http://bluemix.net and click on "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions.
 
 <a name="createapp" />
 ## Create an Application
-...
+The Bluemix environment gives you the opportunity to create web applications. Staging and configuring the online app may require some additional knowledge of e.g. how web servers work and perhaps understanding of web technologies such as HTML.
+
+We recommend that you work locally on your computer. In that case - you can skip this section.
+
+If you still want to stage your application online: 
+
+
 
 <a name="services" />
 ## IBM Watson Services
@@ -66,8 +90,4 @@ To get your service credentials, follow these steps:
 
 <a name="nodejs" />
 ### NodeJS
-...
-
-<a name="other" />
-### Other
 ...
