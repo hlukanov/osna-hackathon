@@ -6,45 +6,7 @@
   * [3. IBM Watson Services](#services)
   * [4. Hands on Programming!](#programming)
     * [4.1. Python](#python)
-      * [4.1.1. AlchemyLanguage](#alchemylanguage)
-      * [4.1.2. AlchemyVision](#alchemyvision)
-      * [4.1.3. AlchemyData News](#alchemydata-news)
-      * [4.1.4. Authorization](#authorization)
-      * [4.1.5. Concept Insights](#concept-insights)
-      * [4.1.6. Conversation](#conversation)
-      * [4.1.7. Dialog](#dialog)
-      * [4.1.8. Document Conversion](#document-conversion)
-      * [4.1.9. Language Translator](#language-translator)
-      * [4.1.10. Natural Language Classifier](#natural-language-classifier)
-      * [4.1.11. Personality Insights](#personality-insights)
-      * [4.1.12. Relationship Extraction](#relationship-extraction)
-      * [4.1.13. Retrieve and Rank](#retrieve-and-rank)
-      * [4.1.14. Speech to Text](#speech-to-text)
-      * [4.1.15. Text to Speech](#text-to-speech)
-      * [4.1.16. Tone Analyzer](#tone-analyzer)
-      * [4.1.17. Tradeoff Analytics](#tradeoff-analytics)
-      * [4.1.18. Visual Insights](#visual-insights)
-      * [4.1.19. Visual Recognition](#visual-recognition)
     * [4.2. NodeJS](#nodejs)
-      * [4.2.1. AlchemyLanguage](#alchemylanguage2)
-      * [4.2.2. AlchemyVision](#alchemyvision2)
-      * [4.2.3. AlchemyData News](#alchemydata-news2)
-      * [4.2.4. Authorization](#authorization2)
-      * [4.2.5. Concept Insights](#concept-insights2)
-      * [4.2.6. Conversation](#conversation2)
-      * [4.2.7. Dialog](#dialog2)
-      * [4.2.8. Document Conversion](#document-conversion2)
-      * [4.2.9. Language Translator](#language-translator2)
-      * [4.2.10. Natural Language Classifier](#natural-language-classifier2)
-      * [4.2.11. Personality Insights](#personality-insights2)
-      * [4.2.12. Relationship Extraction](#relationship-extraction2)
-      * [4.2.13. Retrieve and Rank](#retrieve-and-rank2)
-      * [4.2.14. Speech to Text](#speech-to-text2)
-      * [4.2.15. Text to Speech](#text-to-speech2)
-      * [4.2.16. Tone Analyzer](#tone-analyzer2)
-      * [4.2.17. Tradeoff Analytics](#tradeoff-analytics2)
-      * [4.2.18. Visual Insights](#visual-insights2)
-      * [4.2.19. Visual Recognition](#visual-recognition2)
 
 
 <a name="bluemixlogin" />
@@ -109,7 +71,10 @@ You might not have privilleges to install python packages on the computers in th
 - Now you are operating in the virtual environment
 
 #### 4.1.2. Using the Watson Developer Cloud package
-Simply type `pip install watson_developer_cloud` in the terminal.
+Simply open a terminal and type:
+```sh
+$ pip install watson_developer_cloud
+```
 
 Create a new file, e.g. `my_app.py` and include the desired service like so:
 ```python
@@ -120,8 +85,12 @@ from watson_developer_cloud import RetrieveAndRankV1
 ...
 ```
 
-Now you can use the `Retrieve and Rank` service. For more detailed information on the services you can use - check out the **examples** folder in: https://github.com/watson-developer-cloud/python-sdk
+Now you can use the `Retrieve and Rank` service. For more detailed information on how to use the services - check out the **examples** folder at: https://github.com/watson-developer-cloud/python-sdk
 
 <a name="nodejs" />
 ### 4.2. NodeJS
-...
+Unfortunately NodeJS is not installed on the computers in the pool. However if you prefer using Javascript - you can use your laptops. To install the **Watson Developer Cloud** package via npm, simply open a terminal and type:
+```sh
+$ npm install watson-developer-cloud
+```
+Examples and more detailed information on how to use the services you can find at: https://github.com/watson-developer-cloud/node-sdk
