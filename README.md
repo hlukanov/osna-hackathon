@@ -58,9 +58,9 @@ Finally you can [log in](https://idaas.iam.ibm.com/) your newly created account.
 ## Create an Application
 The Bluemix environment gives you the opportunity to create web or mobile applications. Staging and configuring these apps may require some additional knowledge, e.g. how web servers work and perhaps understanding of web technologies such as HTML.
 
-We recommend that you work **locally** on your computer. In that case - you can skip this section.
+**IMPORTANT!** We recommend that you work **locally** on your computer. In that case - you can **skip this section**.
 
-If you still want to stage your application online:
+If you anyway want to stage your application online:
   - Click **Create Application**
   - Pick one of the containers/boilerplates.
    - For Python programmers we recommend using **Boilerplates** > **Python Flask**
