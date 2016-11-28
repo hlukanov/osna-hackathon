@@ -11,7 +11,7 @@
 
 <a name="bluemixlogin" />
 ## 1. Register a Bluemix Account
-Go to http://bluemix.net and click on "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions. Your account will be free for the next 30 days. After that period no charges will apply. Your account will simply be suspended unless you enter your billing information.
+Go to http://bluemix.net and click "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions. Your account will be free for the next 30 days. After that period no charges will apply. Your account will simply be suspended unless you enter your billing information.
 
 Finally you can [log in](https://idaas.iam.ibm.com/) your newly created account.
 
