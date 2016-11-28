@@ -60,6 +60,7 @@ The Bluemix environment gives you the opportunity to create web or mobile applic
 
 ### Locally
 We recommend that you work **locally** on your computer.
+
 In that case - you can **skip this section**.
 
 ### Online
