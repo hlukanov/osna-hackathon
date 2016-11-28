@@ -70,7 +70,8 @@ If you still want to stage your application online:
    
    ![SDK for NodeJS](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/nodejsHelloWorld/cachedIcon/large/0)
   - Enter App Name
-  - Click "Create"
+  - Click **Create**
+  - Follow the instructions (the Bluemix and CF command line interfaces are already installed on our computers)
 
 
 <a name="services" />
