@@ -63,11 +63,9 @@ We recommend that you work **locally** on your computer. In that case - you can 
 If you still want to stage your application online:
   - Click on "Create Application"
   - Pick one of the containers/boilerplates.
-   - For Python we recommend "Python Flask" under "Boilerplates"
-   
+   - For Python we recommend using **Boilerplates** > **Python Flask**
    ![Python Flask](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/pythonFlaskStarter/cachedIcon/large/0)
-   - For NodeJS fans we recommend the "SDK for NodeJS" under "Cloud Foundry Apps"
-   
+   - For NodeJS fans we recommend **Cloud Foundry Apps** > **SDK for NodeJS**
    ![SDK for NodeJS](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/nodejsHelloWorld/cachedIcon/large/0)
 
 
