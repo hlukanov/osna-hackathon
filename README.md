@@ -35,7 +35,7 @@ If you anyway want to stage your application online:
   - Click **Create**
   - Follow the instructions
 
-**Important:** the **Bluemix** and **CF** command line interfaces are already installed on our computers
+**Important:** the **Bluemix** and **CF** command line interfaces are already installed on the computers in the pool.
 
 
 <a name="services" />
