@@ -14,9 +14,11 @@ Go to http://bluemix.net
 
 <a name="createapp" />
 ## Create an Application
+...
 
 <a name="services" />
-## Use the Watson Services
+## IBM Watson Services
+...
 
 ### Getting the Service Credentials
 You will need the `username` and `password` (`api_key` for AlchemyAPI) credentials for each service. Service credentials are different from your Bluemix account username and password.
@@ -32,3 +34,14 @@ To get your service credentials, follow these steps:
  1. Copy your credentials:
      1. On the left side of the page, click **Service Credentials** to view your service credentials.
      1. Copy `username` and `password`(`api_key` for AlchemyAPI).
+
+<a name="programming" />
+## Hands on Programming!
+
+<a name="python" />
+### Python
+...
+
+<a name="nodejs" />
+### NodeJS
+...
