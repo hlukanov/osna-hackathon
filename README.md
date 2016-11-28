@@ -1,11 +1,11 @@
 # Hackathon Osnabrück
 
 ## Table of Contents
-  * [1. Register a Bluemix Account](#bluemixlogin)
-  * [2. Create an Application](#createapp)
-  * [3. IBM Watson Services](#services)
-  * [4. Hands on Programming!](#programming)
-    * [4.1 Python](#python)
+  1. [Register a Bluemix Account](#bluemixlogin)
+  2. [Create an Application](#createapp)
+  3. [IBM Watson Services](#services)
+  4. [Hands on Programming!](#programming)
+    4.1 [Python](#python)
       * [4.1.1 AlchemyLanguage](#alchemylanguage)
       * [4.1.2 AlchemyVision](#alchemyvision)
       * [4.1.3 AlchemyData News](#alchemydata-news)
@@ -25,7 +25,7 @@
       * [4.1.17 Tradeoff Analytics](#tradeoff-analytics)
       * [4.1.18 Visual Insights](#visual-insights)
       * [4.1.19 Visual Recognition](#visual-recognition)
-    * [4.2 NodeJS](#nodejs)
+    4.2 [NodeJS](#nodejs)
       * [4.2.1 AlchemyLanguage](#alchemylanguage2)
       * [4.2.2 AlchemyVision](#alchemyvision2)
       * [4.2.3 AlchemyData News](#alchemydata-news2)
