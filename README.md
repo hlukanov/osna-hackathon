@@ -1,1 +1,1 @@
-# osna-hackathon
+# Hackathon Osnabrück
