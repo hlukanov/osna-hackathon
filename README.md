@@ -95,7 +95,7 @@ You will need the `username` and `password` (`api_key` for AlchemyAPI) credentia
 
 <a name="programming" />
 ## 4. Hands on Programming!
-In theory you can use any programming language to use the Watson services. However using the native API might require too much work. The [Watson Developer Cloud](https://github.com/watson-developer-cloud) provides you with some useful packages when working with popular programming languages like Java, Python or NodeJS.
+In theory you can use any programming language to use the Watson services. However using the native API might require too much work. The [Watson Developer Cloud](https://github.com/watson-developer-cloud) provides you with some useful packages when working with popular programming languages like Python, NodeJS, Java, etc.
 
 <a name="python" />
 ### 4.1. Python
