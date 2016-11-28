@@ -46,11 +46,14 @@
       * [Visual Insights](#visual-insights2)
       * [Visual Recognition](#visual-recognition2)
 
+
+
 <a name="bluemixlogin" />
 ## Register a Bluemix Account
 Go to http://bluemix.net and click on "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions. Your account will be free for the next 30 days. After that period no charges will apply. Your account will simply be suspended unless you enter your billing information.
 
 Finally you can log in your newly created account.
+
 
 
 <a name="createapp" />
