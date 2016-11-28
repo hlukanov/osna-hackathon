@@ -56,11 +56,17 @@ Finally you can [log in](https://idaas.iam.ibm.com/) your newly created account.
 
 <a name="createapp" />
 ## Create an Application
-The Bluemix environment gives you the opportunity to create web applications. Staging and configuring the online app may require some additional knowledge of e.g. how web servers work and perhaps understanding of web technologies such as HTML.
+The Bluemix environment gives you the opportunity to create web or mobile applications. Staging and configuring these apps may require some additional knowledge, e.g. how web servers work and perhaps understanding of web technologies such as HTML.
 
-We recommend that you work locally on your computer. In that case - you can skip this section.
+We recommend that you work **locally** on your computer. In that case - you can skip this section.
 
-If you still want to stage your application online: 
+If you still want to stage your application online:
+  - Click on "Create Application"
+  - Pick one of the containers/boilerplates.
+   - For Python we recommend "Python Flask" under "Boilerplates"
+   ![Python Flask](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/pythonFlaskStarter/cachedIcon/large/0)
+   - For NodeJS fans we recommend the "SDK for NodeJS" under "Cloud Foundry Apps"
+   ![SDK for NodeJS](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/nodejsHelloWorld/cachedIcon/large/0)
 
 
 <a name="services" />
