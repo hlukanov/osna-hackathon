@@ -4,6 +4,7 @@
   * [Register a Bluemix Account](#bluemixlogin)
   * [Create an Application](#createapp)
   * [IBM Watson Services](#services)
+  
   * [Hands on Programming!](#programming)
     * [Python](#python)
       * [AlchemyLanguage](#alchemylanguage)
@@ -25,6 +26,7 @@
       * [Tradeoff Analytics](#tradeoff-analytics)
       * [Visual Insights](#visual-insights)
       * [Visual Recognition](#visual-recognition)
+      
     * [NodeJS](#nodejs)
       * [AlchemyLanguage](#alchemylanguage2)
       * [AlchemyVision](#alchemyvision2)
