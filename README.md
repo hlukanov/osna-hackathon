@@ -25,7 +25,6 @@
       * [Tradeoff Analytics](#tradeoff-analytics)
       * [Visual Insights](#visual-insights)
       * [Visual Recognition](#visual-recognition)
-      
     * [NodeJS](#nodejs)
     * [Other](#other)
 
