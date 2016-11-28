@@ -48,7 +48,7 @@
 
 <a name="bluemixlogin" />
 ## Register a Bluemix Account
-Go to http://bluemix.net and click on "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions.
+Go to http://bluemix.net and click on "[Sign up](https://console.ng.bluemix.net/registration/)". Fill in the form and follow the instructions. Finally you can log in your newly created account.
 
 <a name="createapp" />
 ## Create an Application
