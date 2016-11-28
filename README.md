@@ -7,6 +7,7 @@
   * [4. Hands on Programming!](#programming)
     * [4.1. Python](#python)
     * [4.2. NodeJS](#nodejs)
+    * [4.3. Java](#java)
 
 
 <a name="bluemixlogin" />
@@ -94,3 +95,7 @@ Unfortunately NodeJS is not installed on the computers in the pool. However if y
 $ npm install watson-developer-cloud
 ```
 Examples and more detailed information on how to use the services you can find at: https://github.com/watson-developer-cloud/node-sdk
+
+<a name="java" />
+### 4.3. Java
+For examples and more detailed information, please visit: https://github.com/watson-developer-cloud/java-sdk
