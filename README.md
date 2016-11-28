@@ -19,7 +19,7 @@ Finally you can [log in](https://idaas.iam.ibm.com/) your newly created account.
 
 <a name="createapp" />
 ## Create an Application
-The Bluemix environment gives you the opportunity to create web or mobile applications. Staging and configuring such apps may require some additional knowledge, e.g. how web servers work and perhaps understanding of web technologies such as HTML.
+The Bluemix environment gives you the opportunity to create web or mobile applications. Staging and configuring such apps online may require some additional knowledge, e.g. how web servers work and perhaps understanding of web technologies such as HTML.
 
 ### Locally
 We recommend that you work **locally** on your computer.
