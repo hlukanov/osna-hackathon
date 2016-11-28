@@ -72,7 +72,7 @@ If you still want to stage your application online:
   - Enter `App Name`
   - Click **Create**
   - Follow the instructions
-   - ***Note:** the **Bluemix** and **CF** command line interfaces are already installed on our computers
+   - **Note:** the **Bluemix** and **CF** command line interfaces are already installed on our computers
 
 
 <a name="services" />
