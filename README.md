@@ -4,7 +4,7 @@
   * [Register a Bluemix Account](#bluemixlogin)
   * [Create an Application](#createapp)
   * [IBM Watson Services](#services)
-  
+
   * [Hands on Programming!](#programming)
     * [Python](#python)
       * [AlchemyLanguage](#alchemylanguage)
