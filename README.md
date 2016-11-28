@@ -61,17 +61,18 @@ The Bluemix environment gives you the opportunity to create web or mobile applic
 We recommend that you work **locally** on your computer. In that case - you can skip this section.
 
 If you still want to stage your application online:
-  - Click on "Create Application"
+  - Click **Create Application**
   - Pick one of the containers/boilerplates.
-   - For Python we recommend using **Boilerplates** > **Python Flask**
+   - For Python programmers we recommend using **Boilerplates** > **Python Flask**
    
    ![Python Flask](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/pythonFlaskStarter/cachedIcon/large/0)
    - For NodeJS fans we recommend **Cloud Foundry Apps** > **SDK for NodeJS**
    
    ![SDK for NodeJS](https://ace-catalog-production-20161118-121417.cdn.eu-gb.bluemix.net/catalog/image/rest/templates/nodejsHelloWorld/cachedIcon/large/0)
-  - Enter App Name
+  - Enter `App Name`
   - Click **Create**
-  - Follow the instructions (the Bluemix and CF command line interfaces are already installed on our computers)
+  - Follow the instructions
+   - ***Note:** the **Bluemix** and **CF** command line interfaces are already installed on our computers
 
 
 <a name="services" />
