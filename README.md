@@ -89,7 +89,7 @@ Now you can use the `Retrieve and Rank` service. For more detailed information o
 
 <a name="nodejs" />
 ### 4.2. NodeJS
-Unfortunately NodeJS is not installed on the computers in the pool. However if you prefer using Javascript - you can use your laptops. To install the **Watson Developer Cloud** package via npm, simply open a terminal and type:
+Unfortunately NodeJS is not installed on the computers in the pool. However if you prefer Javascript as your programming language - you can still do this on your personal notebook. To install the **Watson Developer Cloud** package via npm, simply open a terminal and type:
 ```sh
 $ npm install watson-developer-cloud
 ```
