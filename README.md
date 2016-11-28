@@ -67,8 +67,8 @@ In that case - you can **skip this section**.
 If you anyway want to stage your application online:
   - Click **Create Application**
   - Pick one of the containers/boilerplates.
-   - For Python programmers we recommend using **Boilerplates** > **Python Flask**
-   - For NodeJS fans we recommend **Cloud Foundry Apps** > **SDK for NodeJS**
+   - For Python programmers we recommend using **Boilerplates** >> **Python Flask**
+   - For NodeJS fans we recommend **Cloud Foundry Apps** >> **SDK for NodeJS**
   - Enter `App Name`
   - Click **Create**
   - Follow the instructions
@@ -95,6 +95,7 @@ You will need the `username` and `password` (`api_key` for AlchemyAPI) credentia
 
 <a name="programming" />
 ## 4. Hands on Programming!
+In theory you can use any programming language to use the Watson services. However using the native API might require too much work. The [Watson Developer Cloud](https://github.com/watson-developer-cloud) provides you with some useful packages when working with popular programming languages like Java, Python or NodeJS.
 
 <a name="python" />
 ### 4.1. Python
