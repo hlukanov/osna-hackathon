@@ -28,7 +28,8 @@ To get your service credentials, follow these steps:
 
  1. Create an instance of the service:
      1. In the Bluemix **Catalog**, select the service you want to use.
-     1. Under **Add Service**, type a unique name for the service instance in the Service name field. For example, type `my-service-name`. Leave the default values for the other options.
+     1. Under **Add Service**, type a unique name for the service instance in the Service name field.
+     For example, type `my-service-name`. Leave the default values for the other options.
      1. Click **Create**.
 
  1. Copy your credentials:
