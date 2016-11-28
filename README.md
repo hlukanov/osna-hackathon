@@ -99,7 +99,28 @@ In theory - any modern programming language can be used with the Watson Services
 
 <a name="python" />
 ### 4.1. Python
+
+#### 4.1.1. Virtual Environment
+You might not have privilleges to install python packages on the computers in the pool. However you can create a virtual environment and install any package you need there. To do that - follow the instructions:
+- Create a folder for your project
+- Open a Terminal in that folder
+- Type `virtualenv venv` (you can substitute `venv` with your prefered name)
+- To activate the virtual environment type: `source venv/bin/activate`
+- Now you are operating in the virtual environment
+
+#### 4.1.2. Using the Watson Developer Cloud package
+Simply type `pip install watson_developer_cloud` in the terminal.
+
+Create a new file, e.g. `my_app.py` and include the desired service like so:
+```python
+from watson_developer_cloud import RetrieveAndRankV1
+
 ...
+...
+...
+```
+
+Now you can use the `Retrieve and Rank` service. For more detailed information on the services you can use - check out the **examples** folder in: https://github.com/watson-developer-cloud/python-sdk
 
 <a name="nodejs" />
 ### 4.2. NodeJS
