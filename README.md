@@ -1,6 +1,6 @@
 # Hackathon Osnabrück
 
-### Table of Contents
+## Table of Contents
   * [Register a Bluemix Account](#bluemixlogin)
   * [Create an Application](#createapp)
   * [Use the Watson Services](#services)
